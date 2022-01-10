@@ -1,0 +1,7 @@
+Upload By InfoMetin2
+Instalare Itemshop By darkdev
+- Configurarea generala se face din inc/configurare.php
+- Pentru ca trimiterea mailurilor sa functioneze configurati in inc/mail_class.php
+
+
+- Ruleaza web.sql si dev_jd_items in web din db-ul dvs.

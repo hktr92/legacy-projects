@@ -1,0 +1,432 @@
+/* Stylesheet Copyright 2013 by Shiro   	  */
+/* Design by u. Script bei Stagnis (iKyroja)  */
+/* http://www.crdesigns.com                   */
+/* All rights Reserved                        */
+
+body {
+	background:#97a3dd url("./img/bg.png") no-repeat;
+	background-position: top center;
+	text-align:center;
+	color:#808080;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+}
+#clear {
+	clear:both;
+	height:1px;
+}
+#content {
+	width:600px;
+	vertical-align:top;
+	margin:0px 60px  auto;
+	
+}
+
+
+
+.menu input{
+	display: inline-block;
+  *display: inline;
+  margin-bottom: 0;
+  vertical-align: middle;
+  *zoom: 1;
+}
+
+.postui2 {
+	background:url(img/content.png);
+	margin:0 auto;
+	width:600px;
+	color:#777;
+	text-shadow:1px 0px 0px #FFF;
+}
+
+	.text-title {
+		height:55px;
+		text-shadow:0px 1px 0px #000;
+		color:#EEE;
+	}
+	
+	.text-end {
+		background-position:left bottom;
+		height:10px;
+	}
+	
+	.text-con {
+		background-position:center right;
+		background-repeat:repeat-y;
+		line-height:1.8;
+
+		text-align:left;
+	}
+	
+	.con-wrap {
+		padding:2px 10px;
+	}
+	
+		.text-title h2 {
+			float:left;
+			font-size:16px;
+		    text-shadow:0 2px 4px #000;
+			line-height:23px;
+			text-indent:20px;
+		}
+		a {
+		color:#82877c;
+		text-decoration:none;
+	}
+	
+		a:hover {
+			color:#444;
+		}
+	
+		a:active {
+			color:#82877c;
+		}
+		
+ table {
+    border:0;
+    margin:0 auto;
+    margin-bottom: 10px;
+	font-size:11px;
+	width:100%;
+}
+
+.thell { background: #d4d4d4; color:#333; padding:5px; #FFF; }
+.tdunkel { background: #c5c5c5; color:#444; padding:5px; #FFF; }
+.tred { background: #d4d4d4; color:red; padding:5px; border-bottom: #FFF; }
+.topLine { background: #a6a6a6; color:#444; padding:5px; #FFF; }
+
+ul {
+	list-style: square;
+}
+#sidebar-left {
+	float:left;
+	width:199px;
+    vertical-align:top;
+	margin-left:0px;
+	
+}
+#sidebar-right {
+	float:right;
+	width:199px;
+	vertical-align:top;
+	margin-right:0px;
+	
+}
+
+.sb-ui {
+	background:url("img/sidebar_ui.png");
+}
+.sb-ui2 {
+	background:url("img/sidebar_ui2.png");
+}
+.sb-ui3 {
+	background:url("img/sidebar_ui3.png");
+}
+.sb-ui4 {
+	background:url("img/sidebar_ui4.png");
+}
+
+
+.sb-title {
+	height:50px;
+	text-align:center;
+	padding-right:2px;
+
+}
+		
+.sb-bt {
+			height:7px;
+			background-position:bottom left;
+			margin-bottom:0px;
+			width:199px;
+}
+		
+.sb-cont {
+			background-position:center right;
+			background-repeat:repeat-y;
+}
+		
+.sb-title span {
+				color:#EEE;
+				text-shadow:0 2px 4px #000;
+				font-size:16px;
+				line-height:40px;
+				font-weight:400;
+}
+			
+.sb-middle {
+				margin:0px auto;
+				width:180px;
+				color:#FFF;
+				text-align:left;
+	
+}
+.sb-sep {
+	height:2px;
+	width:100%;
+	margin:2px;
+	clear:both;
+	background:url(img/both.png);
+	
+}
+p {
+	margin:0px;
+	padding:0px 0px 0px;
+	font-size:12px;
+	text-decoration:none;
+	text-align:left;
+}	
+table.status {
+	color:#666;
+	padding:0;
+	margin:0;
+}
+.online {
+	color:#693 !important;
+}
+.offline {
+	color:#900!important;
+}
+.info {
+	color:#036 !important;
+}
+input.button1 {
+margin-left:2px;
+margin-bottom:2px;
+height:27px;
+width:86px;
+background:url(img/btn.png);
+color: #999;
+font-size:10px;
+border:none;
+text-align:center;
+line-height:22px;
+text-shadow:0 1px 0px #FFF;
+
+
+		}
+
+			input.button1:hover {
+				background-position:0px -27px;
+		}
+		input.txt {
+			margin-left:3px;
+			width:174px;
+			height:31px;
+			text-indent:5px;
+			font-size:12px;
+			background:url(img/input.png);
+			border:none;
+			color:#777;
+	        text-shadow:1px 0px 0px #FFF;
+		}
+				input.txt:hover {
+					background-position:0px -31px;
+		}
+		
+input.button2 {
+margin-left:2px;
+margin-bottom:2px;
+height:25px;
+width:101px;
+background:url(img/is_button.png);
+color: #555;
+font-size:13px;
+border:none;
+text-align:center;
+line-height:22px;
+
+
+		}
+
+			input.button2:hover {
+				background-position:0px -26px;
+				color: #222;
+		}
+		
+	#main {
+	width:1050px;
+	background:url ("/img/main.png");
+	padding-top:-100px;
+}
+
+	
+		a.sb-link:hover {
+			color:#555;
+		}
+	
+		a.sb-link:active {
+			color:#777;
+		}
+				#download {
+			background:url(img/download.png);
+			width:199px;
+			height:80px;
+		}
+			#download:hover {
+				background-position:0px -80px;
+		}
+				#community {
+			background:url(img/community.png);
+			width:199px;
+			height:80px;
+		}
+			#community:hover {
+				background-position:0px -80px;
+		}
+				#vote {
+			background:url(img/vote.png);
+			width:204px;
+			height:71px;
+		}
+			#vote:hover {
+				background-position:0px -77px;
+		}
+		#statusbg {
+			background:url(img/sidebg.png);
+			width:150px;
+			height:130px;
+		}
+	
+		.text {
+		padding:15px 10px;
+		font-size:11px;
+	  text-align:left;
+		}
+
+#navi{
+	height:94px;
+	width:1000px;
+	background:url(img/navi.png);
+	}
+#navi ul{
+ 	width:990px;
+ 	list-style:none;
+ 	margin:7px 0 0 -17.5px;
+ 	padding-top:30px;
+ 	}
+	#navi ul li{
+		display:block;float:left
+	}
+	#navi ul li a{
+		display:block; 
+		height:34px;width:89px;
+		line-height:32px;
+		background:url(img/button.png);
+		text-align:center;
+		font-size:14px;color:#c0e2ed;
+		text-shadow:0 1px 3px #000;margin:0 8.5px;
+		}
+		#navi ul li a:hover{
+			color:#6fc7ff;background-position:0 -34px
+			}
+			#navi ul li a:active{
+				color:#709bb7;background-position:0 -68px
+				}
+				#navi ul li a.current{
+					color:#FFF!important;background-position:0 -68px
+					}
+
+
+#footer {
+	background: url("img/footer.png");
+	font-size:12px;
+	color:#EEE;
+	height:91px;
+	width:973px;
+	line-height:94px;
+	overflow:hidden;
+	width:1000px;
+	overflow:hidden;
+	}
+
+	
+		#footer a {
+			color:#999;
+		}		
+		
+			#footer a:hover {
+				color:#6fc7ff;
+			}
+			
+			#footer a:active {
+				color:#709bb7;
+			}
+
+
+#is {
+	background:url(img/is.png);
+	width:190px;
+	height:67px;
+}
+#buy {
+	background:url(img/buy.png);
+	width:190px;
+	height:67px;
+}
+#buy:hover {
+	background:url(img/buyh.png);
+
+}#is:hover {
+	background:url(img/ish.png);
+}
+#salince {
+	background:url(img/status.png);
+	width:177px;
+	height:126px;
+}
+
+#overDiv table {
+	margin: 0 auto;
+}
+
+/* Some fancy only inner borders css here :) */
+
+.innertable {
+
+	text-align: center;
+
+}
+
+.innertable table {
+
+	width:100%;
+
+	border-collapse: collapse;
+
+}
+
+.innertable td,.ranking th {
+
+  border: 2px solid #c5c5c5;
+
+}
+
+.innertable table tr:first-child th {
+
+  border-top: 0;
+
+}
+
+.innertable table tr:last-child td {
+
+  border-bottom: 0;
+
+}
+
+.innertable table tr td:first-child,
+
+.innertable table tr th:first-child {
+
+  border-left: 0;
+
+}
+
+.innertable table tr td:last-child,
+
+.innertable table tr th:last-child {
+
+  border-right: 0;
+
+}

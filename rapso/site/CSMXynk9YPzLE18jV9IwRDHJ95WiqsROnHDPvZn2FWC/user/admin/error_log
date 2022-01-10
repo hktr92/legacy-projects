@@ -1,0 +1,28 @@
+[12-Oct-2013 17:17:47 UTC] PHP Notice:  Undefined variable: inStrings in /home/mtmightr/public_html/adminlol/user/admin/img_stats.php on line 40
+[12-Oct-2013 17:17:47 UTC] PHP Notice:  Undefined variable: imgTitel in /home/mtmightr/public_html/adminlol/user/admin/img_stats.php on line 81
+[12-Oct-2013 17:17:47 UTC] PHP Notice:  Undefined variable: imgTitel in /home/mtmightr/public_html/adminlol/user/admin/img_stats.php on line 82
+[12-Oct-2013 17:17:47 UTC] PHP Notice:  Undefined variable: inWerte in /home/mtmightr/public_html/adminlol/user/admin/img_stats.php on line 86
+[12-Oct-2013 17:17:47 UTC] PHP Notice:  Undefined variable: inStrings in /home/mtmightr/public_html/adminlol/user/admin/img_stats.php on line 87
+[12-Oct-2013 17:17:47 UTC] PHP Notice:  Undefined variable: imgTyp in /home/mtmightr/public_html/adminlol/user/admin/img_stats.php on line 89
+[12-Oct-2013 17:17:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mtmightr/public_html/adminlol/user/admin/img_stats.php:40) in /home/mtmightr/public_html/adminlol/user/admin/img_stats.php on line 172
+[12-Oct-2013 17:17:48 UTC] PHP Notice:  Undefined variable: inStrings in /home/mtmightr/public_html/adminlol/user/admin/img_stats.php on line 40
+[12-Oct-2013 17:17:48 UTC] PHP Notice:  Undefined variable: imgTitel in /home/mtmightr/public_html/adminlol/user/admin/img_stats.php on line 81
+[12-Oct-2013 17:17:48 UTC] PHP Notice:  Undefined variable: imgTitel in /home/mtmightr/public_html/adminlol/user/admin/img_stats.php on line 82
+[12-Oct-2013 17:17:48 UTC] PHP Notice:  Undefined variable: inWerte in /home/mtmightr/public_html/adminlol/user/admin/img_stats.php on line 86
+[12-Oct-2013 17:17:48 UTC] PHP Notice:  Undefined variable: inStrings in /home/mtmightr/public_html/adminlol/user/admin/img_stats.php on line 87
+[12-Oct-2013 17:17:48 UTC] PHP Notice:  Undefined variable: imgTyp in /home/mtmightr/public_html/adminlol/user/admin/img_stats.php on line 89
+[12-Oct-2013 17:17:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mtmightr/public_html/adminlol/user/admin/img_stats.php:40) in /home/mtmightr/public_html/adminlol/user/admin/img_stats.php on line 172
+[12-Oct-2013 17:17:49 UTC] PHP Notice:  Undefined variable: inStrings in /home/mtmightr/public_html/adminlol/user/admin/img_stats.php on line 40
+[12-Oct-2013 17:17:49 UTC] PHP Notice:  Undefined variable: imgTitel in /home/mtmightr/public_html/adminlol/user/admin/img_stats.php on line 81
+[12-Oct-2013 17:17:49 UTC] PHP Notice:  Undefined variable: imgTitel in /home/mtmightr/public_html/adminlol/user/admin/img_stats.php on line 82
+[12-Oct-2013 17:17:49 UTC] PHP Notice:  Undefined variable: inWerte in /home/mtmightr/public_html/adminlol/user/admin/img_stats.php on line 86
+[12-Oct-2013 17:17:49 UTC] PHP Notice:  Undefined variable: inStrings in /home/mtmightr/public_html/adminlol/user/admin/img_stats.php on line 87
+[12-Oct-2013 17:17:49 UTC] PHP Notice:  Undefined variable: imgTyp in /home/mtmightr/public_html/adminlol/user/admin/img_stats.php on line 89
+[12-Oct-2013 17:17:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mtmightr/public_html/adminlol/user/admin/img_stats.php:40) in /home/mtmightr/public_html/adminlol/user/admin/img_stats.php on line 172
+[12-Oct-2013 17:17:50 UTC] PHP Notice:  Undefined variable: inStrings in /home/mtmightr/public_html/adminlol/user/admin/img_stats.php on line 40
+[12-Oct-2013 17:17:50 UTC] PHP Notice:  Undefined variable: imgTitel in /home/mtmightr/public_html/adminlol/user/admin/img_stats.php on line 81
+[12-Oct-2013 17:17:50 UTC] PHP Notice:  Undefined variable: imgTitel in /home/mtmightr/public_html/adminlol/user/admin/img_stats.php on line 82
+[12-Oct-2013 17:17:50 UTC] PHP Notice:  Undefined variable: inWerte in /home/mtmightr/public_html/adminlol/user/admin/img_stats.php on line 86
+[12-Oct-2013 17:17:50 UTC] PHP Notice:  Undefined variable: inStrings in /home/mtmightr/public_html/adminlol/user/admin/img_stats.php on line 87
+[12-Oct-2013 17:17:50 UTC] PHP Notice:  Undefined variable: imgTyp in /home/mtmightr/public_html/adminlol/user/admin/img_stats.php on line 89
+[12-Oct-2013 17:17:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mtmightr/public_html/adminlol/user/admin/img_stats.php:40) in /home/mtmightr/public_html/adminlol/user/admin/img_stats.php on line 172

@@ -1,0 +1,126 @@
+body{
+	background: url('../img/bg.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+}
+
+#container{
+	width: 1012px;
+	margin: 0 auto;
+}
+
+#logo{
+	width: 519px;
+	margin: 50px auto;
+}
+
+#menu{
+	background: url('../img/menu_container.png');
+	width: 1012px;
+	height: 54px;
+	margin: 0 auto;
+	line-height: 50px;
+	background-repeat: no-repeat;
+}
+
+#menu ul{
+	list-style: none;
+	margin-left: -10px;
+}
+
+#menu ul li{
+	float: left;
+	margin-right: -40px;
+	margin-left: -30px;
+	position: relative;
+	width: 165px;
+	text-align: center;
+}
+
+#menu ul li a{
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #A0A0A0;
+	font-family: Arial, Verdana;
+	font-size: 12pt;
+	text-shadow: 0 1px 0 #000;
+	font-weight: bold;
+}
+
+#menu ul li:hover a{
+	background: url('../img/menu_hover.png');
+	display: block;
+	background-position: top center;
+	width: 165px;
+	text-align: center;
+}
+
+p{
+	color: #A0A0A0;
+	font-family: Arial, Verdana;
+	font-size: 10pt;
+	width: 970px;
+}
+
+#panel{
+	background: url('../img/content_panel.png');
+	background-repeat: no-repeat;
+	width: 1008px;
+	height: 371px;
+	margin-top: -10px;
+	padding: 10px;
+}
+
+.thumb{
+	background: url('../img/content_thumb.png');
+	width: 280px;
+	height: 274px;
+	margin-top: 30px;
+	margin-left: 20px;
+	float: left;
+	margin-right: 10px;
+}
+
+.thumb .text{
+	color: #a0a0a0;
+	text-transform: uppercase;
+	font-family: Arial, Verdana;
+	font-size: 14pt;
+	text-shadow: 0 0 20px #a0a0a0;
+	line-height: 40px;
+	text-align: center;
+	width: 280px;
+}
+
+.thumb .img{
+	max-width: 260px;
+	max-height: 180px;
+	margin-top: 20px;
+	margin-left: 80px;
+}
+
+p.title{
+	color: #a0a0a0;
+	text-transform: uppercase;
+	font-family: Arial, Verdana;
+	font-size: 18pt;
+	text-shadow: 0 0 20px #a0a0a0;
+	margin-left: 30px;
+	margin-top: 40px;
+	position: relative;
+}
+
+#footer{
+	background: url('../img/footer.png');
+	width: 1007px;
+	height: 60px;
+	margin-top: -20px;
+}
+
+#copyright{
+	text-align: center;
+	line-height: 50px;
+	color: #A0A0A0;
+	font-family: Arial, Verdana;
+	font-size: 10pt;
+}

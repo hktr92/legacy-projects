@@ -1,0 +1,457 @@
+10|||19|||Schwert|||2
+20|||29|||Langschwert|||2
+30|||39|||Sichelschwert|||2
+40|||49|||Bambusschwert|||2
+50|||59|||Breitschwert|||2
+60|||69|||Silberschwert|||2
+70|||79|||Orchideenschwert|||2
+80|||89|||Anardhalbh&auml;nder|||2
+90|||99|||Barbarenschwert|||2
+100|||109|||Blutiges Schwert|||2
+110|||119|||Grossschwert|||2
+120|||129|||Zauberschwert|||2
+130|||139|||Halbmondschwert|||2
+140|||149|||Schlachtschwert|||2
+150|||159|||Geisterzahnklinge|||2
+160|||169|||Nymphenschwert|||2
+170|||179|||Stichschwert|||2
+180|||189|||Giftschwert|||2
+190|||199|||L&ouml;wenschwert|||2
+200|||209|||Schnittklinge|||2
+210|||219|||T&ouml;dliche Klinge|||2
+220|||229|||Mondschwert|||2
+230|||239|||Himmelschwert|||2
+240|||249|||Exorzismusschwert|||2
+250|||259|||D&auml;monenklinge|||2
+260|||269|||Baronschwert|||2
+270|||279|||Siriusschwert|||2
+280|||289|||Heiliges Schwert|||2
+290|||299|||Vollmondschwert|||2
+3000|||3009|||Glefe|||3
+3010|||3019|||Speer|||3
+3020|||3029|||Enthauptungsklinge|||3
+3030|||3039|||Spinnenspeer|||3
+3040|||3049|||Guisame|||3
+3050|||3059|||Kriegssense|||3
+3060|||3069|||Kampfheugabel|||3
+3070|||3079|||Hellebarde|||3
+3080|||3089|||Riesenaxt|||3
+3090|||3099|||Gletscherpicke|||3
+3100|||3109|||Zw&ouml;lfgeisterschwert|||3
+3110|||3119|||Erl&ouml;sungsklinge|||3
+3120|||3129|||L&ouml;went&ouml;ter|||3
+3130|||3139|||Partisane|||3
+3140|||3149|||Magnetische Klinge|||3
+3150|||3159|||Halbmenschenklinge|||3
+3160|||3169|||Grollschwert|||3
+3170|||3179|||Gelbdrachent&ouml;ter|||3
+3180|||3189|||Blaudrachent&ouml;ter|||3
+3190|||3199|||Sonnenschwert|||3
+3200|||3209|||Drachengottklinge|||3
+3210|||3219|||Roteisenklinge|||3
+5010|||5019|||Kupferglocke|||1
+5020|||5029|||Silberglocke|||1
+5030|||5039|||Goldglocke|||1
+5040|||5049|||Jadeglocke|||1
+5050|||5059|||Brunnenglocke|||1
+5060|||5069|||Aprikosenglocke|||1
+5070|||5079|||Magische Glocke|||1
+5080|||5089|||Goldk&auml;ferglocke|||1
+5090|||5099|||Donnervogelglocke|||1
+5100|||5109|||Himmel & Erdeglocke|||1
+5110|||5119|||Antike Glocke|||1
+5120|||5129|||Orchideenglocke|||1
+5120|||5129|||Schnitter-Glocke|||1
+5140|||5149|||Drachenglocke|||1
+5150|||5159|||Hibiskusglocke|||1
+5330|||5339|||Drachenmaulglocke|||1
+1000|||1009|||Dolch|||1
+1010|||1019|||Kobradolch|||1
+1020|||1029|||Scherendolch|||1
+1030|||1039|||Gl&uuml;cksmesser|||1
+1040|||1049|||Katzenbissmesser|||1
+1050|||1059|||Teufelsmaskendolch|||1
+1060|||1069|||Teufelsfaustdolch|||1
+1070|||1079|||Blutiger Dolch|||1
+1080|||1089|||Rippenmesser|||1
+1090|||1099|||Chakram|||1
+1100|||1109|||Drachenmesser|||1
+1110|||1119|||Blitzmesser|||1
+1120|||1129|||Siamesenmesser|||1
+1130|||1139|||Teufelsfl&uuml;gel-Chakram|||1
+1140|||1149|||S&auml;gezahnmesser|||1
+1150|||1159|||Sonnenstrahlenmesser|||1
+1160|||1169|||Rinnsalmesser|||1
+4000|||4009|||Amija|||1
+4010|||4019|||Neunklingen|||1
+4020|||4029|||KurzesMesser|||1
+4030|||4039|||Mondzwillingsdolch|||1
+4040|||4049|||Seelenlosesmesser|||1
+1170|||1179|||Schwarzblattdolch|||1
+2000|||2009|||Bogen|||2
+2010|||2019|||Langbogen|||2
+2020|||2029|||Kompositbogen|||2
+2030|||2039|||Kriegsbogen|||2
+2040|||2049|||Reiterlangbogen|||2
+2050|||2059|||Reiterkriegsbogen|||2
+2060|||2069|||Kupferverzierter Bogen|||2
+2070|||2079|||Zerst&ouml;rungsbogen|||2
+2080|||2089|||Rotaugenbogen|||2
+2090|||2099|||Dornblattbogen||2
+2100|||2109|||Bullenhornbogen|||2
+2110|||2119|||Einhornbogen|||2
+2120|||2129|||Riesenfl&uuml;gelbogen|||2
+2130|||2139|||Aprikosenbogen|||2
+2140|||2149|||Gro&szlig;gelbdrachenbogen|||2
+2150|||2159|||Hornbogen|||2
+2160|||2169|||Grossteufelbogen|||2
+2170|||2179|||Kr&auml;henstahlbogen|||2
+2180|||2189|||Blaudrachenbogen|||2
+2190|||2199|||Geisterbogen|||2
+7000|||7009|||F&auml;cher|||1
+7010|||7019|||Eisenf&auml;cher|||1
+7020|||7029|||Schwarztigerf&auml;cher|||1
+7030|||7039|||Kranichfl&uuml;gelf&auml;cher|||1
+7040|||7049|||Pfa&uuml;nf&auml;cher|||1
+7050|||7059|||AquatischerF&auml;cher|||1
+7060|||7069|||Steinf&auml;cher|||1
+7070|||7079|||Ozeanf&auml;cher|||1
+7080|||7089|||Stichf&auml;cher|||1
+7090|||7099|||Ph&ouml;nixf&auml;cher|||1
+7100|||7109|||Dreifachf&auml;cher|||1
+7110|||7119|||Bra&uuml;nf&auml;cher|||1
+7120|||7129|||Sonnenf&auml;cher|||1
+7130|||7139|||Himmelsvogelf&auml;cher|||1
+7140|||7149|||Erl&ouml;sungsf&auml;cher|||1
+7150|||7159|||Ektasef&auml;cher|||1
+7160|||7169|||Herbstwindf&auml;cher|||1
+7170|||7179|||Acht-Tigramme-F&auml;cher|||1
+7180|||7189|||Drachen-F&auml;cher|||1
+7190|||7199|||D&auml;monenf&auml;cher|||1
+11200|||11209|||M&ouml;nchsplattenpanzer|||2
+11210|||11219|||Eisenplattenpanzer|||2
+11220|||11229|||Tiger-Plattenpanzer|||2
+11230|||11239|||L&ouml;wen-Plattenpanzer|||2
+11240|||11249|||T&ouml;dlicher-Plattenpanzer|||2
+11250|||11259|||Drachen-Plattenpanzer|||2
+11260|||11269|||Schuppenplattenpanzer|||2
+11270|||11279|||Gold-Plattenpanzer|||2
+11280|||11289|||Drachengott-Panzer|||2
+11290|||11299|||Schwartzstahl-Panzer|||2
+11600|||11609|||Requiem-Plattenpanzer|||2
+11610|||11619|||Magie-Plattenpanzer|||2
+11620|||11629|||Ungl&uuml;cksplattenpanzer|||2
+11630|||11639|||Geistplattenpanzer|||2
+11640|||11649|||YinYang-Plattenpanzer|||2
+11650|||11659|||Mystikerplattenpanzer|||2
+11660|||11669|||Nebelplattenpanzer|||2
+11670|||11679|||Geistermaskenpanzer|||2
+11680|||11689|||Seelen-Plattenpanzer|||2
+11690|||11699|||Magie-Plattenpanzer|||2
+11400|||11409|||Azuranzug|||2
+11410|||11419|||Elfenbeinanzug|||2
+11420|||11429|||Scharlachroter Anzug|||2
+11430|||11439|||Roter Ameisenanzug|||2
+11440|||11449|||Ameisenl&ouml;wenanzug|||2
+11450|||11459|||Ninjaanzug|||2
+11460|||11469|||Jungdrachenanzug|||2
+11470|||11479|||M&ouml;rderwindanzug|||2
+11480|||11489|||Fuchsienanzug|||2
+11490|||11499|||Schwarzwindanzug|||2
+11800|||11809|||Azurkleidung|||2
+11810|||11819|||T&uuml;rkiskleidung|||2
+11820|||11829|||Rosafarbene Kleidung|||2
+11830|||11839|||Kleidung der Liebe|||2
+11840|||11849|||Kleidung des Himmels|||2
+11850|||11859|||Sonnenkleidung|||2
+11860|||11869|||Kleidung der Moral|||2
+11870|||11879|||Oranges Katzenkleid|||2
+11880|||11889|||Kleidung der Baronin|||2
+11890|||11899|||Schwarze Kleidung|||2
+11971|||11971|||Kingr&uuml;stung Krieger|||2
+11973|||11973|||Kingr&uuml;stung Sura|||2
+11972|||11972|||Kingr&uuml;stung Ninja|||2
+11974|||11974|||Kingr&uuml;stung Schamane|||2
+12200|||12209|||Traditioneller Helm|||1
+12220|||12229|||Eisenhelm|||1
+12240|||12249|||Geistermaskenschaller|||1
+12340|||12349|||Lederkapuze|||1
+12360|||12369|||Kettenkapuze|||1
+12380|||12389|||Stahlkapuze|||1
+12480|||12489|||Blutiger Helm|||1
+12500|||12509|||Verh&ouml;nender Helm|||1
+12520|||12529|||Burghelm|||1
+12620|||12629|||M&ouml;nchshut|||1
+12640|||12649|||Ph&ouml;nixhut|||1
+12660|||12669|||Sonnenlichthut|||1
+13000|||13009|||Schlachtschild|||1
+13020|||13029|||F&uuml;nfeckschild|||1
+13040|||13049|||Schwarzer Rundschild|||1
+13060|||13069|||Falkenschild|||1
+13080|||13089|||Tigerschild|||1
+13100|||13109|||L&ouml;wenkantenschild|||1
+13120|||13129|||Drachenschuppenschild|||1
+13140|||13149|||Blutkrustenschild|||1
+13160|||13169|||Dreikaiserschild|||1
+13180|||13189|||Strahlendes Schild|||1
+17000|||17009|||Holzohrringe|||1
+17020|||17029|||Kupferohrringe|||1
+17040|||17049|||Silberohrringe|||1
+17060|||17069|||Goldohrringe|||1
+17080|||17089|||Jadeohrringe|||1
+17100|||17109|||Ebenholzohrringe|||1
+17120|||17129|||Perlenohrringe|||1
+17140|||17149|||Weissgoldohrringe|||1
+17160|||17169|||Kristallohrringe|||1
+17180|||17189|||Amethystohrringe|||1
+17200|||17209|||Himmelstr&auml;nenohrringe|||1
+14000|||14009|||Holzarmband|||1
+14020|||14029|||Kupferarmband|||1
+14040|||14049|||Silberarmband|||1
+14060|||14069|||Goldarmband|||1
+14080|||14089|||Jadearmband|||1
+14100|||14109|||Ebenholzarmband|||1
+14120|||14129|||Perlenarmband|||1
+14140|||14149|||Weissgoldarmband|||1
+14160|||14169|||Kristallarmband|||1
+14180|||14189|||Amethystarmband|||1
+14200|||14209|||Himmelstr&auml;nenarmband|||1
+15000|||15009|||Lederschuhe|||1
+15020|||15029|||Bambushautschuhe|||1
+15040|||15049|||Holzschuhe|||1
+15060|||15069|||Goldverzierteschuh|||1
+15080|||15089|||Lederstiefel|||1
+15100|||15109|||Goldschuhe|||1
+15120|||15129|||Bronzeschuhe|||1
+15140|||15149|||Jadeschuhe|||1
+15160|||15169|||Ekstaseschuhe|||1
+15180|||15189|||Nimbus-Stiefel|||1
+15200|||15209|||Ph&ouml;nixschuhe|||1
+15220|||15229|||Fe&uuml;rvogelschuhe|||1
+16000|||16009|||Holzhalskette|||1
+16020|||16029|||Kupferhalskette|||1
+16040|||16049|||Silberhalskette|||1
+16060|||16069|||Goldhalskette|||1
+16080|||16089|||Jadehalskette|||1
+16100|||16109|||Ebenholzhalskette|||1
+16120|||16129|||Perlenhalskette|||1
+16140|||16149|||Weissgoldhalskette|||1
+16160|||16169|||Kristallhalskette|||1
+16180|||16189|||Amethysthalskette|||1
+16200|||16209|||Himmelstr&auml;nenhalskette|||1
+71009|||71009|||Lagertruhe|||1
+71010|||71010|||Dritte Hand|||1
+71011|||71011|||Emotions-Maske|||1
+27992|||27992|||Weisse Perle|||1
+27993|||27993|||Bla&uuml; Perle|||1
+27994|||27994|||Blutrote Perle|||1
+28630|||28630|||Stein des Durchbruchs+5|||1
+28631|||28631|||Stein des Todesstosses+5|||1
+28632|||28632|||Stein der Wiederkehr+5|||1
+28633|||28633|||Stein gegen Krieger+5|||1
+28634|||28634|||Stein gegen Ninja+5|||1
+28635|||28635|||Stein gegen Sura+5|||1
+28636|||28636|||Stein gegen Schamane+5|||1
+28637|||28637|||Stein gegen Monster+5|||1
+27987|||27987|||Muschel|||1
+70031|||70031|||Gegenangriffsstrategie|||1
+30186|||30186|||Versteinerte Tr&auml;ne|||1
+28638|||28638|||Stein des Ausweichens+5|||1
+28639|||28639|||Stein des Duckens+5|||1
+28640|||28640|||Stein der Magie+5|||1
+28641|||28641|||Stein der Vitalit&auml;t+5|||1
+28642|||28642|||Stein des Schutzes+5|||1
+28643|||28643|||Stein der Hast+5|||1
+71051|||71051|||Gegenstand verst&auml;rken|||1
+71052|||71052|||Gegenstand verzaubern|||1
+0|||0|||--R&uuml;stungen--|||1
+9019|||9019|||Heaven Krieger|||1
+9029|||9029|||Heaven Ninja|||1
+9039|||9039|||Heaven Sura|||1
+9049|||9049|||Heaven Schamane|||1
+9011|||9011|||Azurpanzer|||1
+9012|||9012|||Azurwindanzug|||1
+9013|||9013|||Azurplattenpanzer|||1
+9014|||9014|||Azuranzug|||1
+11979|||11979|||Krieger Kaiserr&uuml;stung|||1
+11981|||11981|||Ninja Kaiserr&uuml;stung|||1
+11980|||11980|||Sura Kaiserr&uuml;stung|||1
+11982|||11982|||Schamane Kaiserr&uuml;stung|||1
+0|||0|||--Reittier Items--|||1
+71130|||71130|||Weisser L&ouml;we|||1
+71135|||71135|||Halbmondring|||1
+0|||0|||--Drachengott Items--|||1
+14220|||14229|||Drachengottarmband|||1
+15260|||15269|||Drachengottschuhe|||1
+91000|||91009|||Drachengotthelm|||1
+92000|||92009|||Drachengottschild|||1
+116200|||116209|||Drachengoldkette|||1
+117200|||117209|||Drachengoldohrringe|||1
+0|||0|||--Krieger Frisuren (m)--|||1
+74001|||74001|||Modische Frisur (rot)|||1
+74002|||74002|||Modische Frisur (hell)|||1
+74003|||74003|||Modische Frisur (blau)|||1
+74004|||74004|||Modische Frisur (braun)|||1
+74005|||74005|||Stirntuch (rot)|||1
+74006|||74006|||Stirntuch (braun)|||1
+74007|||74007|||Stirntuch (blau)|||1
+74008|||74008|||Stirntuch (gr&uuml;n)|||1
+74009|||74009|||Lange Haare (schwarz)|||1
+74010|||74010|||Lange Haare (rot)|||1
+74011|||74011|||Lange Haare (braun)|||1
+74012|||74012|||Lange Haare (gr&uuml;n)|||1
+0|||0|||--Ninja (w)--|||1
+74251|||74251|||Pferdeschwanz (braun)|||1
+74252|||74252|||Pferdeschwanz (gr&uuml;n)|||1
+74253|||74253|||Pferdeschwanz (blau)|||1
+74254|||74254|||Pferdeschwanz (hell)|||1
+74255|||74255|||Schulterlanges Haar (rot)|||1
+74256|||74256|||Schulterlanges Haar (braun)|||1
+74257|||74257|||Schulterlanges Haar (hell)|||1
+74258|||74258|||Schulterlanges Haar (lila)|||1
+74259|||74259|||Lange Haare (schwarz)|||1
+74260|||74260|||Lange Haare (rot)|||1
+74261|||74261|||Lange Haare (braun)|||1
+74262|||74262|||Lange Haare (gr&uuml;n)|||1
+0|||0|||--Sura (m)--|||1
+74501|||74501|||Sportliche Frisur (hell)|||1
+74502|||74502|||Sportliche Frisur (braun)|||1
+74503|||74503|||Sportliche Frisur (blond)|||1
+74504|||74504|||Sportliche Frisur (gr&uuml;n)|||1
+74505|||74505|||Charisma-Frisur (weiss)|||1
+74506|||74506|||Charisma-Frisur (rot)|||1
+74507|||74507|||Charisma-Frisur (schwarz)|||1
+74508|||74508|||Charisma-Frisur (violett)|||1
+74509|||74509|||Langer Zopf (weiss)|||1
+74510|||74510|||Langer Zopf (blau)|||1
+74511|||74511|||Langer Zopf (schwarz)|||1
+74512|||74512|||Langer Zopf (braun)|||1
+0|||0|||--Schamane (w)--|||1
+74751|||74751|||Edle Frisur (braun)|||1
+74752|||74752|||Edle Frisur (schwarz)|||1
+74753|||74753|||Edle Frisur (blau)|||1
+74754|||74754|||Edle Frisur (hell)|||1
+74755|||74755|||Halblanges Haar (braun)|||1
+74756|||74756|||Halblanges Haar (schwarz)|||1
+74757|||74757|||Halblanges Haar (blond)|||1
+74758|||74758|||Halblanges Haar (violett)|||1
+74759|||74759|||Alte Haartracht (braun)|||1
+74760|||74760|||Alte Haartracht (hell)|||1
+74761|||74761|||Alte Haartracht (violett)|||1
+74762|||74762|||Alte Haartracht (rot)|||1
+0|||0|||--Krieger Frisuren (w)--|||1
+75001|||75001|||Modische Frisur (rot)|||1
+75002|||75002|||Modische Frisur (hell)|||1
+75003|||75003|||Modische Frisur (blau)|||1
+75004|||75004|||Modische Frisur (braun)|||1
+75005|||75005|||Stirntuch (braun)|||1
+75006|||75006|||Stirntuch (blond)|||1
+75007|||75007|||Stirntuch (blau)|||1
+75008|||75008|||Stirntuch (gr&uuml;n)|||1
+75009|||75009|||Lange Haare (schwarz)|||1
+75010|||75010|||Lange Haare (rot)|||1
+75011|||75011|||Lange Haare (braun)|||1
+75012|||75012|||Lange Haare (gr&uuml;n)|||1
+0|||0|||--Ninja (m)--|||1
+75201|||75201|||Pferdeschwanz (braun)|||1
+75202|||75202|||Pferdeschwanz (gr&uuml;n)|||1
+75203|||75203|||Pferdeschwanz (blau)|||1
+75204|||75204|||Pferdeschwanz (hell)|||1
+75205|||75205|||Schulterlanges Haar (rot)|||1
+75206|||75206|||Schulterlanges Haar (braun)|||1
+75207|||75207|||Schulterlanges Haar (hell)|||1
+75208|||75208|||Schulterlanges Haar (lila)|||1
+75209|||75209|||Kurzhaarfrisur (rot)|||1
+75210|||75210|||Kurzhaarfrisur (blau)|||1
+75211|||75211|||Kurzhaarfrisur (schwarz)|||1
+75212|||75212|||Kurzhaarfrisur (blond)|||1
+0|||0|||--Sura (w)--|||1
+75401|||75401|||Sportliche Frisur (hell)|||1
+75402|||75402|||Sportliche Frisur (braun)|||1
+75403|||75403|||Sportliche Frisur (blond)|||1
+75404|||75404|||Sportliche Frisur (gr&uuml;n)|||1
+75405|||75405|||Charisma-Frisur (weiss)|||1
+75406|||75406|||Charisma-Frisur (rot)|||1
+75407|||75407|||Charisma-Frisur (schwarz)|||1
+75408|||75408|||Charisma-Frisur (violett)|||1
+75409|||75409|||Langer Zopf (weiss)|||1
+75410|||75410|||Langer Zopf (blau)|||1
+75411|||75411|||Langer Zopf (schwarz)|||1
+75412|||75412|||Langer Zopf (braun)|||1
+0|||0|||--Schamane (m)--|||1
+75601|||75601|||Edle Frisur (braun)|||1
+75602|||75602|||Edle Frisur (schwarz)|||1
+75603|||75603|||Edle Frisur (blau)|||1
+75604|||75604|||Edle Frisur (hell)|||1
+75605|||75605|||Halblanges Haar (braun)|||1
+75606|||75606|||Halblanges Haar (schwarz)|||1
+75607|||75607|||Halblanges Haar (blond)|||1
+75608|||75608|||Halblanges Haar (violett)|||1
+75609|||75609|||Alte Haartracht (braun)|||1
+75610|||75610|||Alte Haartracht (hell)|||1
+75611|||75611|||Alte Haartracht (violett)|||1
+75612|||75612|||Alte Haartracht (rot)|||1
+0|||0|||~~~~~~~~~~~~~~~~~~|||1
+11308|||11308|||Feindesausda&uuml;r (Krieger)|||1
+11708|||11708|||Ma-Sin-Gab (Sura)|||1
+11508|||11508|||Z&ouml;k-Hyoun (Ninja)|||1
+12008|||12008|||Aqua Kleidung (Schamane)|||1
+0|||0|||~~~~~~~~~~~~~~~~~~|||1
+29997|||29997|||Gr&uuml;ne Perle|||1
+29998|||29998|||Lila Perle|||1
+29999|||29999|||Goldene Perle|||1
+71136|||71136|||Lolli|||1
+0|||0|||~~~~~~~~~~~~~~~~~~|||1
+70032|||70032|||Zweihandschwertbuch|||1
+70033|||70033|||Einhandschwertbuch|||1
+70034|||70034|||Dolchhandbuch|||1
+0|||0|||~~~~~~~~~~~~~~~~~~|||1
+11011|||11011|||Gottespanzer|||1
+11012|||11012|||Gotteswindanzug|||1
+11013|||11013|||Gottesanzug|||1
+11014|||11014|||Gottesplattenpanzer|||1
+0|||0|||~~~~~~~~~~~~~~~~~~|||1
+130000|||130009|||Wolkenhalskette|||1
+130010|||130019|||Wolkenarmband|||1
+0|||0|||~~~~~~~~~~~~~~~~~~|||1
+71055|||71055|||Tinktur des Namens|||1
+50132|||50132|||Majoras Mask|||1
+0|||0|||~~~~~~~~~~~~~~~~~~|||1
+27010|||27019|||Gelber Anzug (Krieger)|||1
+27020|||27029|||Gelber Anzug (Ninja)|||1
+27040|||27049|||Gelber Anzug (Sura)|||1
+27030|||27039|||Gelber Anzug (Schamane)|||1
+0|||0|||~~~~~~~~~~~~~~~~~~|||1
+71138|||71138|||Gouma-Siegel|||1
+50135|||50135|||Wassersiegel|||1
+0|||0|||~~~~~~~~~~~~~~~~~~|||1
+50126|||50126|||Magische Samen|||1
+50127|||50127|||Wei&szlig;e Perle|||1
+50128|||50128|||Blaue Perle|||1
+50129|||50129|||Rote Perle|||1
+53005|||53005|||Azraelskind-Siegel|||1
+52044|||52044|||Tapferer L&ouml;we (Siegel)|||1
+52045|||52045|||Tapferer L&ouml;we (Siegel)|||1
+71145|||71145|||Amulett der Ewigen Liebe|||1
+50035|||50035|||Exorzismus-Schriftrolle|||1
+50036|||50036|||Konzentriertes Lesen|||1
+30024|||30024|||Pferdeschwanz|||1
+39001|||39001|||Magischer Stein|||1
+71129|||71129|||Drachenkralle|||1
+71123|||71123|||Drachenschuppe|||1
+0|||0|||~~~~~~~~~~~~~~~~~~|||1
+50070|||50070|||Oberork-Truhe|||1
+50071|||50071|||Truhe dunkler Anf&uuml;hrer|||1
+50072|||50072|||Truhe Geist-Anf&uuml;hrer|||1
+50073|||50073|||K&ouml;nigsspinnentruhe|||1
+50074|||50074|||Riesenspinnentruhe|||1
+50075|||50075|||Truhe des Plagetr&auml;gers|||1
+50076|||50076|||Truhe W&uuml;stenschildkr&ouml;te|||1
+50077|||50077|||Neunschwanztruhe|||1
+50078|||50078|||Truhe des gelben Tigers|||1
+50079|||50079|||Flammenk&ouml;nigtruhe|||1
+50080|||50080|||Truhe des roten Drachen|||1
+50081|||50081|||D&auml;monenk&ouml;nigtruhe|||1
+50082|||50082|||Sensenmanntruhe|||1
+30319|||30319|||Schrumpfkopf|||1
+70201|||70201|||Bleichmittel|||1

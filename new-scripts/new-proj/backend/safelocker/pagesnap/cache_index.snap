@@ -1,0 +1,47 @@
+<!-- Cache, data stelara 1440422813 (14:39) --><h1>Hello World!</h1>
+<p>
+  Noile script-uri pentru Metin2. Este o extensie al script-urilor originale,
+  imbunatatite la potentialul lor maxim si intretinut de hacktor.
+</p>
+<hr>
+<h2>Caracteristici noi</h2>
+<p>O scurta lista de noi caracteristici:</p>
+
+<table border>
+  <thead>
+    <tr>
+      <th width="30%">Nume caracteristica</th>
+      <th width="10%">Status</th>
+      <th width="60%">Explicatie</th>
+    </tr>
+  </thead>
+
+  <tbody>
+          <tr>
+        <td>Sesiuni</td>
+        <td>Actualizat</td>
+        <td>Sesiunile sunt mai stricte, sigure, si pot fi configurate usor. De asemenea, am configurat si cookie-urile.</td>
+      </tr>
+          <tr>
+        <td>PageSnap</td>
+        <td>Nou|Implementat</td>
+        <td>PageSnap foloseste functiile Output Buffer. Functia ob_start() a fost apelata in vechile script-uri, dar n-a fost utilizat in mod corespunzator. Aceste script-uri folosesc Output Buffer in mod corespunzator si am extins utilizarea spre caching.</td>
+      </tr>
+          <tr>
+        <td>MySQL</td>
+        <td>Actualizat</td>
+        <td>Deoarece in PHP 5.5 extensia mysql este dezactivata, aceste script-uri folosesc noua si imbunatatita extensie mysqli. Chiar daca aparent nu este nimic deosebit, noua extensie MySQL permite utilizarea functiilor in programarea orientata pe obiect.</td>
+      </tr>
+          <tr>
+        <td>Sabloane</td>
+        <td>Nou</td>
+        <td>Sistemul de sabloane este unul extrem de simplu si functioneaza numai in conjunctie cu PageSnap. Acest sistem ofera o structura mai eleganta a site-ului web si faciliteaza modificarile ulterioare asupra design-ului.</td>
+      </tr>
+          <tr>
+        <td>Bootstrap</td>
+        <td>Nou</td>
+        <td>Twitter Bootstrap este un front-end framework care faciliteaza crearea design-ului initital. Twitter Bootstrap este implementat cu scop demonstrativ.</td>
+      </tr>
+      </tbody>
+</table>
+

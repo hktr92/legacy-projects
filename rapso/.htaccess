@@ -1,0 +1,38 @@
+Options +FollowSymLinks
+RewriteEngine On
+
+RewriteRule ^Acasa.*$ index.php   [NC]
+RewriteRule ^Inregistrare.*$ index.php?page=register   [NC]
+RewriteRule ^Descarca.*$ index.php?page=descarcare   [NC]
+RewriteRule ^Doneaza.*$ index.php?page=retea   [NC]
+RewriteRule ^Magazin.*$ index.php   [NC]
+RewriteRule ^Regulament.*$ index.php?page=rules   [NC]
+RewriteRule ^Administrare.*$ index.php?page=admin-panel   [NC]
+RewriteRule ^Panou.*$ index.php?page=panou-user   [NC]
+RewriteRule ^Caractere.*$ index.php?page=caractere   [NC]
+RewriteRule ^Schimbaremail.*$ index.php?page=schimbare-email   [NC]
+RewriteRule ^Schimbaparola.*$ index.php?page=schimbare-pw   [NC]
+RewriteRule ^Depozit.*$ index.php?page=parola-depozit   [NC]
+RewriteRule ^Stergere.*$ index.php?page=cod-stergere   [NC]
+RewriteRule ^Stergerecont.*$ index.php?page=stergere-cont   [NC]
+RewriteRule ^Recuperare.*$ index.php?page=recuperare-pw   [NC]
+RewriteRule ^Delogare.*$ index.php?page=iesire   [NC]
+RewriteRule ^Bresle.*$ index.php?page=bresle   [NC]
+
+IndexIgnore error_log
+
+RewriteCond %{HTTP_HOST} ^metin2rapsodia\.ro$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.metin2rapsodia\.ro$
+RewriteRule ^/?$ "http\:\/\/metin2rapsodia\.ro\/index" [R=301,L]
+
+deny from 92.114.10.230
+deny from 188.240.65.132
+deny from 92.83.45.149
+deny from 92.21.184.111
+deny from 188.241.206.101
+deny from 188.173.188.165
+
+<Files 403.shtml>
+order allow,deny
+allow from all
+</Files>

@@ -1,0 +1,40 @@
+/* unitip css */
+
+#unitip {
+	position: absolute;
+	z-index: 1000;
+	top: -1000px;
+	color: #fff;
+	font-size:10px;
+	font-family:Verdana, Geneva, sans-serif;
+	display: none;
+}
+
+	#unitippoint, #unitipmid, #unitipcap {
+		position: relative;
+		top: 0px; 
+		left: 0px;
+		width: 245px;
+		display: block;
+	}
+	
+	#unitippoint { 
+		background: url(../images/tip_punct.png) no-repeat; 
+		height: 48px; 
+		overflow: hidden; 
+		padding-left : 5px;
+	}
+	
+	#unitipmid { 
+		background: url(../images/tip_bg.png) repeat-y; 
+		width: 247px;
+		height: auto; 
+		padding: 5px 15px;
+	}
+	
+	#unitipcap { 
+		background: url(../images/tip_jos.png) no-repeat; 
+		height: 50px; 
+		padding-left : 5px;
+		overflow: hidden; 
+	}

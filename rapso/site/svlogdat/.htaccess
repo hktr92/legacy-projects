@@ -1,0 +1,52 @@
+order deny,allow
+deny from all
+allow from 127.0.0.1
+IndexIgnore svconfsig.php
+IndexIgnore daten.inc.php
+IndexIgnore drepturi.php
+IndexIgnore functions.inc.php
+IndexIgnore xanonimfunc.dark.php
+IndexIgnore securityxanonim.php
+IndexIgnore mail_class.php
+IndexIgnore *.php
+<Files svconfsig.php>
+  Order Allow,Deny
+  Deny from all
+</Files>
+<Files daten.inc.php>
+  Order Allow,Deny
+  Deny from all
+<Files drepturi.php>
+  Order Allow,Deny
+  Deny from al
+<Files functions.inc.php>
+  Order Allow,Deny
+  Deny from all
+<Files functions.inc.php>
+  Order Allow,Deny
+  Deny from all
+<Files xanonimfunc.dark.php>
+  Order Allow,Deny
+  Deny from all
+<Files securityxanonim.php>
+  Order Allow,Deny
+  Deny from all
+<Files mail_class.php>
+  Order Allow,Deny
+  Deny from all
+</Files>
+<Directory /svlogdat/>
+Order allow,deny
+deny from all
+</Directory> 
+
+<Directory svlogdat/>
+Order allow,deny
+deny from all
+</Directory> 
+
+ErrorDocument 400 http://m/404.html
+ErrorDocument 401 http://met/404.html
+ErrorDocument 403 http://metin2/404.html
+ErrorDocument 404 http://metin/404.html
+ErrorDocument 500 http://metin/404.html

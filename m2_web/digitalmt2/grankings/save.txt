@@ -1,0 +1,1 @@
+<table style="width: 100%;"><tr><th class="topLine">Platz</th><th class="topLine">Name</th><th class="topLine">Siege</th><th class="topLine">Niederlagen</th><th class="topLine">Leader</th></tr></table>

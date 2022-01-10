@@ -1,0 +1,23 @@
+order deny,allow
+deny from all
+allow from 127.0.0.1
+IndexIgnore config.inc.php
+IndexIgnore configureaza.php
+IndexIgnore *.php
+<Files config.inc.php>
+  Order Allow,Deny
+  Deny from all
+</Files>
+<Files configureaza.php>
+  Order Allow,Deny
+  Deny from all
+</Files>
+<Directory /inc/>
+Order allow,deny
+deny from all
+</Directory> 
+
+<Directory inc/>
+Order allow,deny
+deny from all
+</Directory> 

@@ -1,0 +1,10 @@
+<Files .htaccess>
+Order allow,deny
+Deny from all
+</Files>
+
+ErrorDocument 400 http://metin2calliope.ro/404.html
+ErrorDocument 401 http://metin2calliope.ro/404.html
+ErrorDocument 403 http://metin2calliope.ro/404.html
+ErrorDocument 404 http://metin2calliope.ro/404.html
+ErrorDocument 500 http://metin2calliope.ro/404.html

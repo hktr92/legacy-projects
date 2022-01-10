@@ -1,0 +1,58 @@
+<?PHP
+  if($_SESSION['user_admin']>0) {
+?>
+<h2>Administrare - prezentare general&#259;</h2>
+<br>
+<div class="splitLeft">
+    <h5>&nbsp;&nbsp;&nbsp;&nbsp;Mesaje utilizatori</h5>
+	<ul class="menue">
+    <li><h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="index.php?s=admin&a=show_contact">Citire / &#351;tergere mesaje</a></h3></li>
+   </ul>
+   <h5>&nbsp;&nbsp;&nbsp;&nbsp;Gestionare site</h5>
+   <ul class="menue">
+    <li><h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="index.php?s=admin&a=news">Gestionare &#351;tiri & evenimente</a></h3></li>
+  </ul>
+  </ul>
+  <h5>&nbsp;&nbsp;&nbsp;&nbsp;Gestionare admini</h5>
+  <ul class="menue">
+    <li><h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="index.php?s=admin&a=admins">Site - drepturile adminilor</a></h3></li>
+    <li><h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="index.php?s=admin&a=gadmins">Joc - drepturile adminilor</a></h3></li>
+  </ul>
+  <h5>&nbsp;&nbsp;&nbsp;&nbsp;Gestionare utilizatori</h5>
+  <ul class="menue">
+    <li><h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="index.php?s=admin&a=user">C&#259;utare cont</a></h3></li>
+	<li><h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="index.php?s=admin&a=itemsearch">C&#259;utare iteme</a></h3></li>
+	<li><h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="index.php?s=admin&a=iplist">C&#259;utare IP-uri</a></h3></li>
+	<li><h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="index.php?s=admin&a=banlist">Conturi blocate</a></h3></li>
+    <li><h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="index.php?s=admin&a=charlist">C&#259;utare caractere</a></h3></li>
+    <li><h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="index.php?s=admin&a=map">Toate h&#259;r&#355;ile serverului</a></h3></li>
+  </ul>
+  </div>
+<div class="splitRight">
+  </ul>
+  </ul>
+  </ul>
+    <h5>Logs</h5>
+  <ul class="menue">
+    <li><h3>&nbsp;&nbsp;&nbsp;&nbsp;<a href="index.php?s=admin&a=gmlog">Log GM</a></h3></li>
+    <li><h3>&nbsp;&nbsp;&nbsp;&nbsp;<a href="index.php?s=admin&a=hacklog">Log Hack</a></h3></li>
+    <li><h3>&nbsp;&nbsp;&nbsp;&nbsp;<a href="index.php?s=admin&a=moneylog">Log Yang</a></h3></li>
+    <li><h3>&nbsp;&nbsp;&nbsp;&nbsp;<a href="index.php?s=admin&a=loginlog">Log Login</a></h3></li>
+    <li><h3>&nbsp;&nbsp;&nbsp;&nbsp;<a href="index.php?s=admin&a=levellog">Log Level</a></h3></li>
+  </ul>  
+
+   <!-- <li><h3>&nbsp;&nbsp;&nbsp;&nbsp;<a href="index.php?s=admin&a=stat">Statistici2</a></h3></li>-->
+  </ul>
+  <!--<h5>Chat</h5>
+  <ul class="menue">
+    <li><h3>&nbsp;&nbsp;&nbsp;&nbsp;<a href="chat">Chat</a></h3></li>
+    <li><h3>&nbsp;&nbsp;&nbsp;&nbsp;<a href="chat/admin/">Administrare chat</a></h3></li>
+  </ul>--><br/><br/><br/>
+  </div>
+<?PHP
+  }
+  else {
+    echo'<p class="meldung">Nu ave&#355;i acces la aceast&#259; zon&#259;!</p>';
+  }
+  
+?>
